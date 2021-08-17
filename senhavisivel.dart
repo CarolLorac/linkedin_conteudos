@@ -1,4 +1,3 @@
-//COMO DEIXAR A SENHA VISIVEL E INVISIVEL
 import 'package:flutter/material.dart';
 
 class SenhaVis extends StatefulWidget {
